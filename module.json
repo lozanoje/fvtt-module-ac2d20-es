@@ -1,0 +1,67 @@
+{
+  "id": "fvtt-module-ac2d20-es",
+  "title": "Translation: Spanish [Achtung! Cthulhu 2d20 System]",
+  "description": "Traducción del sistema Achtung! Cthulhu 2d20 System (github.com/Muttley/foundryvtt-ac2d20) al español -  Achtung! Cthulhu 2d20 System spanish translation",
+  "version": "11.12.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json",
+      "flags": {}
+    }
+  ],
+	  "packFolders": [
+  {
+    "name": "Compendios en español",
+    "sorting": "a",
+    "color": "#b95050",
+    "packs": ["habilidades-es"]
+  }
+  ],
+  "packs": [
+    {
+      "name": "habilidades-es",
+      "label": "Habilidades",
+      "system": "ac2d20",
+      "path": "packs/habilidades-es.db",
+      "type": "Item",
+      "private": false,
+      "flags": {},
+      "package": "fvtt-module-ac2d20-es",
+      "absPath": "packs/habilidades-es.db"
+    }
+  ],
+  "url": "https://github.com/lozanoje/fvtt-module-ac2d20-es",
+  "manifest": "https://raw.githubusercontent.com/lozanoje/fvtt-module-ac2d20-es/main/module.json",
+  "download": "https://github.com/lozanoje/fvtt-module-ac2d20-es/archive/main.zip",
+  "authors": [
+    {
+      "name": "Viriato139ac",
+      "discord": "@Viriato139ac#0342"
+    }
+  ],
+	  "relationships": {
+	    "systems": [{
+	        "id": "ac2d20",
+	        "type": "system",
+	        "compatibility": "11.1.2"
+	      }
+	    ],
+	    "requires": [{
+	        "id": "foundryvtt-es",
+	        "type": "module",
+	        "compatibility": {}
+	      }
+	    ]
+	  },
+	
+	
+  "esmodules": [
+    "fvtt-module-ac2d20-es.js"
+  ]
+}
