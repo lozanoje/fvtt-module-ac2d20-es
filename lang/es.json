@@ -342,5 +342,15 @@
   "AC2D20.SETTINGS.ctName": "Asistente de combate actualiza la inercia",
   "AC2D20.SETTINGS.ctHint": "Si se activa, el asistente de combate reducirá la reserva de inercia cuando empiece un nuevo asalto, o cuando el combate finalice.",
   "AC2D20.TEMPLATES.majoritems": "Objetos grandes",
-  "AC2D20.TEMPLATES.minoritems": "Objetos pequeños" 
+  "AC2D20.TEMPLATES.minoritems": "Objetos pequeños",
+  "AC2D20.MIGRATION.begin_migration": "Realizando mejora de datos para Achtung! Cthulhu 2d20",
+  "AC2D20.MIGRATION.begin_schema": "Aplicando actualizaciones para esquema v{version} de Achtung! Cthulhu 2d20",
+  "AC2D20.MIGRATION.completed_migration": "Completada mejora de datos para Achtung! Cthulhu 2d20",
+  "AC2D20.MIGRATION.completed_schema": "Completadas las actualizaciones del esquema v{version} de Achtung! Cthulhu 2d20",
+  "AC2D20.SETTINGS.debugEnabled.hint": "Habilitar características adicionales de depuración",
+  "AC2D20.SETTINGS.debugEnabled.label": "Habilitar/deshabilitar depuración",
+  "AC2D20.SETTINGS.systemVersion.hint": "Registra la versión actual del sistema Achtung! Cthulhu 2d20 (no tocar a menos que sepa lo que está haciendo)",
+  "AC2D20.SETTINGS.systemVersion.label": "Versión del sistema",
+  "AC2D20.SETTINGS.worldSchemaVersion.hint": "Registra la versión actual del esquema de datos del sistema Achtung! Cthulhu 2d20 (no tocar a menos que sepa lo que está haciendo)",
+  "AC2D20.SETTINGS.worldSchemaVersion.label": "Versión del esquema de datos"
 }
