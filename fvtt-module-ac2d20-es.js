@@ -4,8 +4,10 @@ Hooks.once('init', () => {
 
 Hooks.once('ready', () => {
   if (game.user.isGM) {
+    // console.log(game.settings.get("ac2d20", "hoversJsonLocation"));
+    game.settings.set("ac2d20", "hoversJsonLocation", 'modules/fvtt-module-ac2d20-es/assets/hovers-es.json');
     // console.log(game.settings.get("ac2d20", "compendium-skills"));
-    game.settings.set("ac2d20", "compendium-skills", 'fvtt-module-ac2d20-es.habilidades-es');
+    game.settings.set("ac2d20", "compendium-skills", 'fvtt-module-ac2d20-es.habilidades');
 	// fonts
 /*     game.settings.set("core", "fonts", {
       "AC Cthulu Icons": {
