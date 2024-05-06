@@ -2,7 +2,7 @@
   "id": "fvtt-module-ac2d20-es",
   "title": "Translation: Spanish [Achtung! Cthulhu 2d20]",
   "description": "Traducción del sistema Achtung! Cthulhu 2d20 (github.com/Muttley/foundryvtt-ac2d20) al español -  Achtung! Cthulhu 2d20 spanish translation",
-  "version": "11.20.8",
+  "version": "11.30.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11.315"
@@ -174,7 +174,7 @@
 	    "systems": [{
 	        "id": "ac2d20",
 	        "type": "system",
-	        "compatibility": "11.2.0"
+	        "compatibility": "11.3.0"
 	      }
 	    ],
 	    "requires": [{
