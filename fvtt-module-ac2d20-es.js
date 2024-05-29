@@ -7,7 +7,9 @@ Hooks.once('ready', () => {
     // console.log(game.settings.get("ac2d20", "hoversJsonLocation"));
     game.settings.set("ac2d20", "hoversJsonLocation", 'modules/fvtt-module-ac2d20-es/assets/hovers-es.json');
     // console.log(game.settings.get("ac2d20", "compendium-skills"));
-    game.settings.set("ac2d20", "compendium-skills", 'fvtt-module-ac2d20-es.habilidades');
+    // game.settings.set("ac2d20", "compendium-skills", 'fvtt-module-ac2d20-es.habilidades');
+    // console.log(game.settings.get("ac2d20", "compendium-skills"));
+    // game.settings.set("ac2d20", "resilience-skill", 'Fortaleza');	
 	// fonts
 /*     game.settings.set("core", "fonts", {
       "AC Cthulu Icons": {

@@ -2,7 +2,7 @@
   "id": "fvtt-module-ac2d20-es",
   "title": "Translation: Spanish [Achtung! Cthulhu 2d20]",
   "description": "Traducción del sistema Achtung! Cthulhu 2d20 (github.com/Muttley/foundryvtt-ac2d20) al español -  Achtung! Cthulhu 2d20 spanish translation",
-  "version": "11.40.1",
+  "version": "11.40.2",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -19,7 +19,7 @@
       "name": "Compendios en español",
       "sorting": "a",
       "color": "#b95050",
-      "packs": ["habilidades", "escenas"],
+      "packs": ["escenas"],
 	  "folders": [{
           "name": "Creación PJs",
           "sorting": "a",
@@ -40,16 +40,6 @@
   ],
   "packs": [
     {
-      "name": "habilidades",
-      "label": "Habilidades",
-      "system": "ac2d20",
-      "path": "packs/habilidades.db",
-      "type": "Item",
-      "private": false,
-      "flags": {},
-      "package": "fvtt-module-ac2d20-es",
-      "absPath": "packs/habilidades.db"
-    }, {
       "name": "escenas",
       "label": "Escenas",
       "system": "ac2d20",

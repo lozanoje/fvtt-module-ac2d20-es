@@ -1,0 +1,8 @@
+2024/05/28-19:02:31.984894 e201e8f0f040 Recovering log #867
+2024/05/28-19:02:31.992197 e201e8f0f040 Delete type=0 #867
+2024/05/28-19:02:31.992256 e201e8f0f040 Delete type=3 #865
+2024/05/28-19:13:25.101609 e201d2fdf040 Level-0 table #872: started
+2024/05/28-19:13:25.101661 e201d2fdf040 Level-0 table #872: 0 bytes OK
+2024/05/28-19:13:25.105043 e201d2fdf040 Delete type=0 #870
+2024/05/28-19:13:25.116421 e201d2fdf040 Manual compaction at level-0 from '!folders!AVcKNkesg7AtYqbc' @ 72057594037927935 : 1 .. '!items!zPRWHJ2mW15fVtnU' @ 0 : 0; will stop at (end)
+2024/05/28-19:13:25.116473 e201d2fdf040 Manual compaction at level-1 from '!folders!AVcKNkesg7AtYqbc' @ 72057594037927935 : 1 .. '!items!zPRWHJ2mW15fVtnU' @ 0 : 0; will stop at (end)
