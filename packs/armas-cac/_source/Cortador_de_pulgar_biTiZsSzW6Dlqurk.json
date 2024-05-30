@@ -1,0 +1,185 @@
+{
+  "folder": "szIZM0ronZiuHBZn",
+  "name": "Cortador de pulgar",
+  "type": "weapon",
+  "_id": "biTiZsSzW6Dlqurk",
+  "img": "systems/ac2d20/assets/doc-icons/weapon.svg",
+  "system": {
+    "description": "<p>Tanto la DOE como la OSE fabrican peque&ntilde;os cuchillos para el pulgar de diversas formas: desde dagas cortas hasta hojas ocultas que se cosen en la ropa. Se dise&ntilde;an para usarse contra las manos, el cuello, la cara y las mejillas del enemigo en un ataque cortante que pretende facilitar la huida mientras el enemigo intenta detener la p&eacute;rdida de sangre.</p>",
+    "favorite": false,
+    "cost": 0,
+    "quantity": 1,
+    "rarity": 0,
+    "restriction": 1,
+    "size": 0,
+    "stashed": false,
+    "weight": "1",
+    "equippable": true,
+    "equipped": false,
+    "ammo": 0,
+    "effect": {
+      "area": {
+        "description": "",
+        "label": "Area",
+        "value": false
+      },
+      "backlash": {
+        "description": "",
+        "label": "Backlash",
+        "rank": 1,
+        "value": false
+      },
+      "drain": {
+        "description": "",
+        "label": "Drain",
+        "value": false
+      },
+      "intense": {
+        "description": "",
+        "label": "Intense",
+        "value": false
+      },
+      "persistent": {
+        "description": "",
+        "label": "Persistent",
+        "rank": 1,
+        "value": false
+      },
+      "piercing": {
+        "description": "",
+        "label": "Piercing",
+        "rank": 1,
+        "value": true
+      },
+      "snare": {
+        "description": "",
+        "label": "Snare",
+        "value": false
+      },
+      "stun": {
+        "description": "",
+        "label": "Stun",
+        "value": false
+      },
+      "vicious": {
+        "description": "",
+        "label": "Vicious",
+        "value": false
+      }
+    },
+    "focus": "Melee Weapons",
+    "melee": false,
+    "qualities": {
+      "accurate": {
+        "description": "",
+        "label": "Accurate",
+        "value": false
+      },
+      "bane": {
+        "description": "",
+        "label": "Bane",
+        "value": false
+      },
+      "close_quarters": {
+        "description": "",
+        "label": "Close Quarters",
+        "value": false
+      },
+      "cumbersome": {
+        "description": "",
+        "label": "Cumbersome",
+        "value": false
+      },
+      "debilitating": {
+        "description": "",
+        "label": "Debilitating",
+        "value": false
+      },
+      "escalation": {
+        "description": "",
+        "label": "Escalation",
+        "value": false
+      },
+      "giant_killer": {
+        "description": "",
+        "label": "Giant-Killer",
+        "value": false
+      },
+      "heavy": {
+        "description": "",
+        "label": "Heavy",
+        "value": false
+      },
+      "hidden": {
+        "description": "",
+        "label": "Hidden",
+        "value": true
+      },
+      "hunger": {
+        "description": "",
+        "label": "Hunger",
+        "value": false
+      },
+      "inaccurate": {
+        "description": "",
+        "label": "Inaccurate",
+        "value": false
+      },
+      "indirect": {
+        "description": "",
+        "label": "Indirect",
+        "value": false
+      },
+      "munition": {
+        "description": "",
+        "label": "Munition",
+        "value": false
+      },
+      "parrying": {
+        "description": "",
+        "label": "Parrying",
+        "value": false
+      },
+      "reliable": {
+        "description": "",
+        "label": "Reliable",
+        "value": false
+      },
+      "subtle": {
+        "description": "",
+        "label": "Subtle",
+        "value": true
+      },
+      "unreliable": {
+        "description": "",
+        "label": "Unreliable",
+        "value": false
+      }
+    },
+    "range": "reach",
+    "salvo": "",
+    "skill": "Fighting",
+    "stress": 1,
+    "weaponType": "agi"
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.compendios-ac2d20-es.armas-es.Item.biTiZsSzW6Dlqurk"
+    }
+  },
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1704998970282,
+    "modifiedTime": 1705659922702,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "sort": 300000,
+  "_key": "!items!biTiZsSzW6Dlqurk"
+}

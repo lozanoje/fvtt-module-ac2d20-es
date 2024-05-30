@@ -1,0 +1,181 @@
+{
+  "folder": "SyOz8seWdM6726h2",
+  "name": "Arma de asta",
+  "type": "weapon",
+  "_id": "TFU1IdKzd3mCyYy6",
+  "img": "systems/ac2d20/assets/doc-icons/weapon.svg",
+  "system": {
+    "description": "<p>Las armas de asta, como las alabardas y lanzas, son armas blancas colocadas en el extremo de un largo palo de madera. Se utilizan para defenderse de los ataques cuerpo a cuerpo y mantener al enemigo a cierta distancia, pero si un oponente logra acercase lo suficiente, se vuelven muy dif&iacute;ciles de manejar e ineficaces.</p>",
+    "favorite": false,
+    "cost": 0,
+    "quantity": 1,
+    "rarity": 0,
+    "restriction": 2,
+    "size": 0,
+    "stashed": false,
+    "weight": "3",
+    "equippable": true,
+    "equipped": false,
+    "ammo": 0,
+    "effect": {
+      "area": {
+        "description": "",
+        "label": "Area",
+        "value": false
+      },
+      "backlash": {
+        "description": "",
+        "label": "Backlash",
+        "rank": 1,
+        "value": false
+      },
+      "drain": {
+        "description": "",
+        "label": "Drain",
+        "value": false
+      },
+      "intense": {
+        "description": "",
+        "label": "Intense",
+        "value": false
+      },
+      "persistent": {
+        "description": "",
+        "label": "Persistent",
+        "rank": 1,
+        "value": false
+      },
+      "piercing": {
+        "description": "",
+        "label": "Piercing",
+        "rank": 1,
+        "value": true
+      },
+      "snare": {
+        "description": "",
+        "label": "Snare",
+        "value": false
+      },
+      "stun": {
+        "description": "",
+        "label": "Stun",
+        "value": false
+      },
+      "vicious": {
+        "description": "",
+        "label": "Vicious",
+        "value": false
+      }
+    },
+    "focus": "Exotic",
+    "melee": false,
+    "qualities": {
+      "accurate": {
+        "description": "",
+        "label": "Accurate",
+        "value": false
+      },
+      "bane": {
+        "description": "",
+        "label": "Bane",
+        "value": false
+      },
+      "close_quarters": {
+        "description": "",
+        "label": "Close Quarters",
+        "value": false
+      },
+      "cumbersome": {
+        "description": "",
+        "label": "Cumbersome",
+        "value": false
+      },
+      "debilitating": {
+        "description": "",
+        "label": "Debilitating",
+        "value": false
+      },
+      "escalation": {
+        "description": "",
+        "label": "Escalation",
+        "value": false
+      },
+      "giant_killer": {
+        "description": "",
+        "label": "Giant-Killer",
+        "value": false
+      },
+      "heavy": {
+        "description": "",
+        "label": "Heavy",
+        "value": false
+      },
+      "hidden": {
+        "description": "",
+        "label": "Hidden",
+        "value": false
+      },
+      "hunger": {
+        "description": "",
+        "label": "Hunger",
+        "value": false
+      },
+      "inaccurate": {
+        "description": "",
+        "label": "Inaccurate",
+        "value": false
+      },
+      "indirect": {
+        "description": "",
+        "label": "Indirect",
+        "value": false
+      },
+      "munition": {
+        "description": "",
+        "label": "Munition",
+        "value": false
+      },
+      "parrying": {
+        "description": "",
+        "label": "Parrying",
+        "value": false
+      },
+      "reliable": {
+        "description": "",
+        "label": "Reliable",
+        "value": false
+      },
+      "subtle": {
+        "description": "",
+        "label": "Subtle",
+        "value": false
+      },
+      "unreliable": {
+        "description": "",
+        "label": "Unreliable",
+        "value": false
+      }
+    },
+    "range": "reach",
+    "salvo": "",
+    "skill": "Fighting",
+    "stress": 4,
+    "weaponType": "agi"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705010292026,
+    "modifiedTime": 1705659922702,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!TFU1IdKzd3mCyYy6"
+}

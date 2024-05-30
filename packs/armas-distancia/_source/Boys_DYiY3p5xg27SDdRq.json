@@ -1,0 +1,181 @@
+{
+  "name": "Boys",
+  "type": "weapon",
+  "_id": "DYiY3p5xg27SDdRq",
+  "img": "systems/ac2d20/assets/doc-icons/weapon.svg",
+  "system": {
+    "description": "<p>Nombrado en honor a su creador (en ciertos c&iacute;rculos es m&aacute;s conocido por su apodo, &laquo;ca&ntilde;&oacute;n elefante&raquo;, debido a su tama&ntilde;o), el fusil antitanque Boys tuvo un &eacute;xito inicial contra tanques ligeros y veh&iacute;culos blindados ligeros. Se qued&oacute; desfasado a partir de 1943 debido a su ineficacia contra blindajes pesados. A pesar de sus capacidades limitadas, es bastante &uacute;til cuando se usa contra fortificaciones est&aacute;ticas, como b&uacute;nkeres y nidos de ametralladoras.</p>",
+    "favorite": false,
+    "cost": 0,
+    "quantity": 1,
+    "rarity": 0,
+    "restriction": 3,
+    "size": 0,
+    "stashed": false,
+    "weight": "3",
+    "equippable": true,
+    "equipped": false,
+    "ammo": 3,
+    "effect": {
+      "area": {
+        "description": "",
+        "label": "Area",
+        "value": false
+      },
+      "backlash": {
+        "description": "",
+        "label": "Backlash",
+        "rank": 1,
+        "value": false
+      },
+      "drain": {
+        "description": "",
+        "label": "Drain",
+        "value": false
+      },
+      "intense": {
+        "description": "",
+        "label": "Intense",
+        "value": false
+      },
+      "persistent": {
+        "description": "",
+        "label": "Persistent",
+        "rank": 1,
+        "value": false
+      },
+      "piercing": {
+        "description": "",
+        "label": "Piercing",
+        "rank": 1,
+        "value": false
+      },
+      "snare": {
+        "description": "",
+        "label": "Snare",
+        "value": false
+      },
+      "stun": {
+        "description": "",
+        "label": "Stun",
+        "value": false
+      },
+      "vicious": {
+        "description": "",
+        "label": "Vicious",
+        "value": false
+      }
+    },
+    "focus": "Heavy Weapons",
+    "melee": false,
+    "qualities": {
+      "accurate": {
+        "description": "",
+        "label": "Accurate",
+        "value": true
+      },
+      "bane": {
+        "description": "",
+        "label": "Bane",
+        "value": false
+      },
+      "close_quarters": {
+        "description": "",
+        "label": "Close Quarters",
+        "value": false
+      },
+      "cumbersome": {
+        "description": "",
+        "label": "Cumbersome",
+        "value": true
+      },
+      "debilitating": {
+        "description": "",
+        "label": "Debilitating",
+        "value": false
+      },
+      "escalation": {
+        "description": "",
+        "label": "Escalation",
+        "value": true
+      },
+      "giant_killer": {
+        "description": "",
+        "label": "Giant-Killer",
+        "value": false
+      },
+      "heavy": {
+        "description": "",
+        "label": "Heavy",
+        "value": true
+      },
+      "hidden": {
+        "description": "",
+        "label": "Hidden",
+        "value": false
+      },
+      "hunger": {
+        "description": "",
+        "label": "Hunger",
+        "value": false
+      },
+      "inaccurate": {
+        "description": "",
+        "label": "Inaccurate",
+        "value": false
+      },
+      "indirect": {
+        "description": "",
+        "label": "Indirect",
+        "value": false
+      },
+      "munition": {
+        "description": "",
+        "label": "Munition",
+        "value": false
+      },
+      "parrying": {
+        "description": "",
+        "label": "Parrying",
+        "value": false
+      },
+      "reliable": {
+        "description": "",
+        "label": "Reliable",
+        "value": false
+      },
+      "subtle": {
+        "description": "",
+        "label": "Subtle",
+        "value": false
+      },
+      "unreliable": {
+        "description": "",
+        "label": "Unreliable",
+        "value": false
+      }
+    },
+    "range": "long",
+    "salvo": "Cruel",
+    "skill": "Fighting",
+    "stress": 7,
+    "weaponType": "coo"
+  },
+  "effects": [],
+  "folder": "xTSlhC9u88eItLZL",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705081099768,
+    "modifiedTime": 1705659924392,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!DYiY3p5xg27SDdRq"
+}

@@ -1,0 +1,181 @@
+{
+  "folder": "CRRafK49h5axfE1x",
+  "name": "Browning Hi-Power",
+  "type": "weapon",
+  "_id": "LsoBFYvq3cLzhIyZ",
+  "img": "systems/ac2d20/assets/doc-icons/weapon.svg",
+  "system": {
+    "description": "<p>La Browning Hi-Power es la pistola m&aacute;s utilizada del mundo, pues la utilizan tanto los aliados como las fuerzas del Eje. La invent&oacute; John Browning, un ingeniero de armas de fuego estadounidense y empez&oacute; a usarse en 1935. Tuvo una recepci&oacute;n mixta entre muchos militares, debido a su pesado gatillo, pero alta capacidad del cargador.</p>",
+    "favorite": false,
+    "cost": 0,
+    "quantity": 1,
+    "rarity": 0,
+    "restriction": 1,
+    "size": 0,
+    "stashed": false,
+    "weight": "1",
+    "equippable": true,
+    "equipped": false,
+    "ammo": 3,
+    "effect": {
+      "area": {
+        "description": "",
+        "label": "Area",
+        "value": false
+      },
+      "backlash": {
+        "description": "",
+        "label": "Backlash",
+        "rank": 1,
+        "value": false
+      },
+      "drain": {
+        "description": "",
+        "label": "Drain",
+        "value": false
+      },
+      "intense": {
+        "description": "",
+        "label": "Intense",
+        "value": false
+      },
+      "persistent": {
+        "description": "",
+        "label": "Persistent",
+        "rank": 1,
+        "value": false
+      },
+      "piercing": {
+        "description": "",
+        "label": "Piercing",
+        "rank": 1,
+        "value": false
+      },
+      "snare": {
+        "description": "",
+        "label": "Snare",
+        "value": false
+      },
+      "stun": {
+        "description": "",
+        "label": "Stun",
+        "value": false
+      },
+      "vicious": {
+        "description": "",
+        "label": "Vicious",
+        "value": false
+      }
+    },
+    "focus": "Handguns",
+    "melee": false,
+    "qualities": {
+      "accurate": {
+        "description": "",
+        "label": "Accurate",
+        "value": false
+      },
+      "bane": {
+        "description": "",
+        "label": "Bane",
+        "value": false
+      },
+      "close_quarters": {
+        "description": "",
+        "label": "Close Quarters",
+        "value": true
+      },
+      "cumbersome": {
+        "description": "",
+        "label": "Cumbersome",
+        "value": false
+      },
+      "debilitating": {
+        "description": "",
+        "label": "Debilitating",
+        "value": false
+      },
+      "escalation": {
+        "description": "",
+        "label": "Escalation",
+        "value": false
+      },
+      "giant_killer": {
+        "description": "",
+        "label": "Giant-Killer",
+        "value": false
+      },
+      "heavy": {
+        "description": "",
+        "label": "Heavy",
+        "value": false
+      },
+      "hidden": {
+        "description": "",
+        "label": "Hidden",
+        "value": false
+      },
+      "hunger": {
+        "description": "",
+        "label": "Hunger",
+        "value": false
+      },
+      "inaccurate": {
+        "description": "",
+        "label": "Inaccurate",
+        "value": false
+      },
+      "indirect": {
+        "description": "",
+        "label": "Indirect",
+        "value": false
+      },
+      "munition": {
+        "description": "",
+        "label": "Munition",
+        "value": false
+      },
+      "parrying": {
+        "description": "",
+        "label": "Parrying",
+        "value": false
+      },
+      "reliable": {
+        "description": "",
+        "label": "Reliable",
+        "value": false
+      },
+      "subtle": {
+        "description": "",
+        "label": "Subtle",
+        "value": false
+      },
+      "unreliable": {
+        "description": "",
+        "label": "Unreliable",
+        "value": false
+      }
+    },
+    "range": "close",
+    "salvo": "Cruel",
+    "skill": "Fighting",
+    "stress": 4,
+    "weaponType": "coo"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705010671151,
+    "modifiedTime": 1705659924392,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!LsoBFYvq3cLzhIyZ"
+}

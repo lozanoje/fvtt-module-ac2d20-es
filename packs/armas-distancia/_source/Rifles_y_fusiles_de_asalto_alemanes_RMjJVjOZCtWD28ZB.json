@@ -1,0 +1,19 @@
+{
+  "name": "Rifles y fusiles de asalto alemanes",
+  "sorting": "a",
+  "folder": "SOUYUHxmxDek1jmG",
+  "type": "Item",
+  "_id": "RMjJVjOZCtWD28ZB",
+  "sort": 900000,
+  "color": "#5d84a2",
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705258128442,
+    "modifiedTime": 1705659924278,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!folders!RMjJVjOZCtWD28ZB"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Armas a distancia",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "SOUYUHxmxDek1jmG",
+  "sort": 100000,
+  "color": "#2e6c9e",
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705010585048,
+    "modifiedTime": 1705659924552,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!folders!SOUYUHxmxDek1jmG"
+}

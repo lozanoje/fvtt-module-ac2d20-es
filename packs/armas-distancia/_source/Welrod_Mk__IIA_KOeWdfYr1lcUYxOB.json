@@ -1,0 +1,181 @@
+{
+  "name": "Welrod Mk. IIA",
+  "type": "weapon",
+  "_id": "KOeWdfYr1lcUYxOB",
+  "img": "systems/ac2d20/assets/doc-icons/weapon.svg",
+  "system": {
+    "description": "<p>Se dise&ntilde;&oacute; para ser silencioso. Es un tubo compacto, pensado para usarse con dos manos: una sostiene la empu&ntilde;adura de pistola y el cargador, y la otra sostiene el ca&ntilde;&oacute;n. Debido a la eficacia del silenciador, el disparo no puede reconocerse como tal a cuarenta y cinco metros. El Welrod viene con mira nocturna luminosa.</p>",
+    "favorite": false,
+    "cost": 0,
+    "quantity": 1,
+    "rarity": 0,
+    "restriction": 2,
+    "size": 0,
+    "stashed": false,
+    "weight": "1",
+    "equippable": true,
+    "equipped": false,
+    "ammo": 3,
+    "effect": {
+      "area": {
+        "description": "",
+        "label": "Area",
+        "value": false
+      },
+      "backlash": {
+        "description": "",
+        "label": "Backlash",
+        "rank": 1,
+        "value": false
+      },
+      "drain": {
+        "description": "",
+        "label": "Drain",
+        "value": false
+      },
+      "intense": {
+        "description": "",
+        "label": "Intense",
+        "value": false
+      },
+      "persistent": {
+        "description": "",
+        "label": "Persistent",
+        "rank": 1,
+        "value": false
+      },
+      "piercing": {
+        "description": "",
+        "label": "Piercing",
+        "rank": 1,
+        "value": false
+      },
+      "snare": {
+        "description": "",
+        "label": "Snare",
+        "value": false
+      },
+      "stun": {
+        "description": "",
+        "label": "Stun",
+        "value": false
+      },
+      "vicious": {
+        "description": "",
+        "label": "Vicious",
+        "value": false
+      }
+    },
+    "focus": "Handguns",
+    "melee": false,
+    "qualities": {
+      "accurate": {
+        "description": "",
+        "label": "Accurate",
+        "value": false
+      },
+      "bane": {
+        "description": "",
+        "label": "Bane",
+        "value": false
+      },
+      "close_quarters": {
+        "description": "",
+        "label": "Close Quarters",
+        "value": true
+      },
+      "cumbersome": {
+        "description": "",
+        "label": "Cumbersome",
+        "value": false
+      },
+      "debilitating": {
+        "description": "",
+        "label": "Debilitating",
+        "value": false
+      },
+      "escalation": {
+        "description": "",
+        "label": "Escalation",
+        "value": false
+      },
+      "giant_killer": {
+        "description": "",
+        "label": "Giant-Killer",
+        "value": false
+      },
+      "heavy": {
+        "description": "",
+        "label": "Heavy",
+        "value": false
+      },
+      "hidden": {
+        "description": "",
+        "label": "Hidden",
+        "value": false
+      },
+      "hunger": {
+        "description": "",
+        "label": "Hunger",
+        "value": false
+      },
+      "inaccurate": {
+        "description": "",
+        "label": "Inaccurate",
+        "value": false
+      },
+      "indirect": {
+        "description": "",
+        "label": "Indirect",
+        "value": false
+      },
+      "munition": {
+        "description": "",
+        "label": "Munition",
+        "value": false
+      },
+      "parrying": {
+        "description": "",
+        "label": "Parrying",
+        "value": false
+      },
+      "reliable": {
+        "description": "",
+        "label": "Reliable",
+        "value": false
+      },
+      "subtle": {
+        "description": "",
+        "label": "Subtle",
+        "value": true
+      },
+      "unreliable": {
+        "description": "",
+        "label": "Unreliable",
+        "value": false
+      }
+    },
+    "range": "close",
+    "salvo": "Cruel",
+    "skill": "Fighting",
+    "stress": 3,
+    "weaponType": "coo"
+  },
+  "effects": [],
+  "folder": "CRRafK49h5axfE1x",
+  "sort": 175000,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705047482407,
+    "modifiedTime": 1705659924392,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!KOeWdfYr1lcUYxOB"
+}

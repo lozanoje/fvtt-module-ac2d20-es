@@ -1,0 +1,181 @@
+{
+  "name": "Thompson",
+  "type": "weapon",
+  "_id": "r81Vm7MliHpxyOTO",
+  "img": "systems/ac2d20/assets/doc-icons/weapon.svg",
+  "system": {
+    "description": "<p>El subfusil Thompson es la ametralladora est&aacute;ndar de Estados Unidos; la utilizan los suboficiales, tripulantes y otro personal que no lleve un rifle est&aacute;ndar. Es el &uacute;nico subfusil en producci&oacute;n fuera de Europa en 1939 y lo adoptan r&aacute;pidamente las principales potencias que no pertenecen al Eje al estallar la guerra. Fabricado en su mayor&iacute;a para los Rangers y cuerpos aerotransportados estadounidenses con la idea de aumentar su potencia de fuego, el Thompson tambi&eacute;n se convierte en el subfusil preferido de los comandos brit&aacute;nicos.</p>",
+    "favorite": false,
+    "cost": 0,
+    "quantity": 1,
+    "rarity": 0,
+    "restriction": 2,
+    "size": 0,
+    "stashed": false,
+    "weight": "3",
+    "equippable": true,
+    "equipped": false,
+    "ammo": 3,
+    "effect": {
+      "area": {
+        "description": "",
+        "label": "Area",
+        "value": false
+      },
+      "backlash": {
+        "description": "",
+        "label": "Backlash",
+        "rank": 1,
+        "value": false
+      },
+      "drain": {
+        "description": "",
+        "label": "Drain",
+        "value": false
+      },
+      "intense": {
+        "description": "",
+        "label": "Intense",
+        "value": false
+      },
+      "persistent": {
+        "description": "",
+        "label": "Persistent",
+        "rank": 1,
+        "value": false
+      },
+      "piercing": {
+        "description": "",
+        "label": "Piercing",
+        "rank": 1,
+        "value": false
+      },
+      "snare": {
+        "description": "",
+        "label": "Snare",
+        "value": false
+      },
+      "stun": {
+        "description": "",
+        "label": "Stun",
+        "value": false
+      },
+      "vicious": {
+        "description": "",
+        "label": "Vicious",
+        "value": false
+      }
+    },
+    "focus": "Close Quarters",
+    "melee": false,
+    "qualities": {
+      "accurate": {
+        "description": "",
+        "label": "Accurate",
+        "value": false
+      },
+      "bane": {
+        "description": "",
+        "label": "Bane",
+        "value": false
+      },
+      "close_quarters": {
+        "description": "",
+        "label": "Close Quarters",
+        "value": false
+      },
+      "cumbersome": {
+        "description": "",
+        "label": "Cumbersome",
+        "value": false
+      },
+      "debilitating": {
+        "description": "",
+        "label": "Debilitating",
+        "value": false
+      },
+      "escalation": {
+        "description": "",
+        "label": "Escalation",
+        "value": false
+      },
+      "giant_killer": {
+        "description": "",
+        "label": "Giant-Killer",
+        "value": false
+      },
+      "heavy": {
+        "description": "",
+        "label": "Heavy",
+        "value": false
+      },
+      "hidden": {
+        "description": "",
+        "label": "Hidden",
+        "value": false
+      },
+      "hunger": {
+        "description": "",
+        "label": "Hunger",
+        "value": false
+      },
+      "inaccurate": {
+        "description": "",
+        "label": "Inaccurate",
+        "value": true
+      },
+      "indirect": {
+        "description": "",
+        "label": "Indirect",
+        "value": false
+      },
+      "munition": {
+        "description": "",
+        "label": "Munition",
+        "value": false
+      },
+      "parrying": {
+        "description": "",
+        "label": "Parrying",
+        "value": false
+      },
+      "reliable": {
+        "description": "",
+        "label": "Reliable",
+        "value": false
+      },
+      "subtle": {
+        "description": "",
+        "label": "Subtle",
+        "value": false
+      },
+      "unreliable": {
+        "description": "",
+        "label": "Unreliable",
+        "value": false
+      }
+    },
+    "range": "close",
+    "salvo": "Aturdidora",
+    "skill": "Fighting",
+    "stress": 4,
+    "weaponType": "coo"
+  },
+  "effects": [],
+  "folder": "JU7cSZYJk1wnDs2p",
+  "sort": 100782,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705052706530,
+    "modifiedTime": 1705659924392,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!r81Vm7MliHpxyOTO"
+}

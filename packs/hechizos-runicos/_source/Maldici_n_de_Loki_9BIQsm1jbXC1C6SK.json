@@ -1,0 +1,54 @@
+{
+  "name": "Maldición de Loki",
+  "type": "spell",
+  "_id": "9BIQsm1jbXC1C6SK",
+  "img": "systems/ac2d20/assets/doc-icons/spell.svg",
+  "system": {
+    "description": "<h1>Maldici&oacute;n de Loki</h1>\n<p>El pr&iacute;ncipe de los embaucadores es un patr&oacute;n conveniente para este vidente r&uacute;nico, pues recurre a nauthiz, la runa de la sombra, para sembrar la confusi&oacute;n y el temor entre las filas enemigas. Cualquier unidad, personaje o criatura enemiga afectada por la maldici&oacute;n de Loki sufrir&aacute; aterradoras visiones de gigantes y monstruos, criaturas feroces y entidades diab&oacute;licas surgidas de los p&aacute;ramos helados, todo con el fin de desconcertarlos, enga&ntilde;arlos y desmoralizarlos.</p>\n<p><strong>Habilidad</strong>: Persuasi&oacute;n.</p>\n<p><strong>Dificultad</strong>: 2.</p>\n<p><strong>Coste</strong>: 5 , Drenaje. Adem&aacute;s, cada efecto obtenido al lanzar el coste genera 1 Amenaza.</p>\n<p><strong>Duraci&oacute;n</strong>: Instant&aacute;neo.</p>\n<p><strong>Efectos</strong></p>\n<p>Hechizo de ataque. El hechicero inflige un da&ntilde;o mental equivalente a su poder +2@s con el efecto <em>Aturdidora </em>a todos los enemigos que se encuentren a distancia cercana.</p>\n<p><strong>Defecto</strong></p>\n<p>Una versi&oacute;n an&oacute;mala del hechizo afecta a todas las criaturas que se encuentren dentro del alcance, no solo a los enemigos.</p>\n<p><strong>Inercia</strong></p>\n<ul>\n<li>Por 2 Inercia, a&ntilde;ades Captura.</li>\n<li>Por 2 Inercia, a&ntilde;ades Persistente 6.</li>\n</ul>",
+    "favorite": false,
+    "bonusChallenge": 0,
+    "complication": 20,
+    "cost": 5,
+    "costEffects": "Drenaje. Además, cada efecto obtenido al lanzar el coste genera 1 Amenaza.",
+    "damage": 0,
+    "damageEffects": "",
+    "damageFormula": "",
+    "damageStressType": "",
+    "difficulty": 2,
+    "duration": "Instantáneo.",
+    "effect": "",
+    "flawed": "",
+    "focus": "",
+    "mantle": false,
+    "momentum": "",
+    "ritualRequirements": "",
+    "ritualResistance": "",
+    "ritualSteps": {
+      "max": 0,
+      "value": 0
+    },
+    "ritualStress": {
+      "max": 0,
+      "value": 0
+    },
+    "skill": "Persuasion",
+    "spellType": "ins"
+  },
+  "effects": [],
+  "folder": "4U82fNv3E8aEsij2",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705601259059,
+    "modifiedTime": 1705659253236,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!9BIQsm1jbXC1C6SK"
+}

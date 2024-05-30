@@ -1,0 +1,19 @@
+{
+  "name": "Libro de hechizos celta",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "jU0VOVuzqfdpkulv",
+  "sort": 100000,
+  "color": "#ae6119",
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705577267682,
+    "modifiedTime": 1705659248524,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!folders!jU0VOVuzqfdpkulv"
+}

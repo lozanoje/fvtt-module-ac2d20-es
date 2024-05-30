@@ -1,0 +1,54 @@
+{
+  "name": "Nirvana interior",
+  "type": "spell",
+  "_id": "3USkVEUlHsywO85K",
+  "img": "systems/ac2d20/assets/doc-icons/spell.svg",
+  "system": {
+    "description": "<h1>Nirvana interior</h1>\n<p>El ps&iacute;quico extrae energ&iacute;a de sus compa&ntilde;eros y amplifica su esp&iacute;ritu colectivo para mitigar el da&ntilde;o que reciben y generar un sutil efecto curativo. Las balas que se dirigen hacia ellos parecen ralentizarse y titubear, a la vez que se cura cualquier herida sufrida, gracias a la vitalidad compartida del grupo.</p>\n<p><strong>Habilidad:</strong> Fortaleza.</p>\n<p><strong>Dificultad:</strong> 2.</p>\n<p><strong>Coste:</strong> 3 , Drenaje.</p>\n<p><strong>Duraci&oacute;n:</strong> Un n&uacute;mero de rondas igual al poder del ps&iacute;quico.</p>\n<p><strong>Efectos</strong></p>\n<p>Protecci&oacute;n. La habilidad afecta al ps&iacute;quico y sus aliados a distancia cercana, hasta un n&uacute;mero m&aacute;ximo de objetivos igual al poder del ps&iacute;quico. Los individuos afectados ganan una cantidad de Cobertura igual a la mitad del poder del ps&iacute;quico (redondeando hacia arriba). Adem&aacute;s, mientras el talento ps&iacute;quico siga activo, los personajes afectados recuperar&aacute;n una cantidad de estr&eacute;s igual a su Fortaleza al comienzo de cada uno de sus turnos.</p>\n<p><strong>Inercia</strong></p>\n<ul>\n<li>Por 2 Inercia, los afectados ganan una cantidad de Cobertura igual al poder del ps&iacute;quico, en lugar de la mitad.</li>\n</ul>",
+    "favorite": false,
+    "bonusChallenge": 0,
+    "complication": 20,
+    "cost": 3,
+    "costEffects": "Drenaje",
+    "damage": 0,
+    "damageEffects": "",
+    "damageFormula": "",
+    "damageStressType": "",
+    "difficulty": 2,
+    "duration": "Un número de rondas igual al poder del psíquico.",
+    "effect": "",
+    "flawed": "",
+    "focus": "",
+    "mantle": false,
+    "momentum": "",
+    "ritualRequirements": "",
+    "ritualResistance": "",
+    "ritualSteps": {
+      "max": 0,
+      "value": 0
+    },
+    "ritualStress": {
+      "max": 0,
+      "value": 0
+    },
+    "skill": "Resilience",
+    "spellType": "ins"
+  },
+  "effects": [],
+  "folder": "arPkbtyTMPOqFCd8",
+  "sort": 175000,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705620943999,
+    "modifiedTime": 1705659519607,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!3USkVEUlHsywO85K"
+}

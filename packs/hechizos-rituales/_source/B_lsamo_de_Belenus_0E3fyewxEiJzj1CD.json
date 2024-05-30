@@ -1,0 +1,54 @@
+{
+  "name": "Bálsamo de Belenus",
+  "type": "spell",
+  "_id": "0E3fyewxEiJzj1CD",
+  "img": "systems/ac2d20/assets/doc-icons/spell.svg",
+  "system": {
+    "description": "<h1>B&aacute;lsamo de Belenus</h1>\n<p>Esta ceremonia invoca los poderes curativos del resplandeciente dios celta Belenus para sanar las heridas m&aacute;s horribles, procurar alivio para las almas perturbadas por los traumas del combate mecanizado moderno y reparar el da&ntilde;o ps&iacute;quico infligido por los terrores arcanos.</p>\n<p><strong>Requisitos</strong>: Utensilios rituales.</p>\n<p><strong>Prueba</strong>: Medicina; Dificultad 2.</p>\n<p><strong>Medidor de estr&eacute;s</strong>: 10.</p>\n<p><strong>Pasos</strong>: 1 o m&aacute;s (ver texto).</p>\n<p><strong>Coste</strong>: 3 , Drenaje.</p>\n<p><strong>Duraci&oacute;n</strong>: Instant&aacute;nea.</p>\n<p><strong>Efectos</strong></p>\n<p>El ritualista puede curar a una sola persona o criatura a distancia de contacto, pero debe elegir antes de comenzar la ceremonia si desea curar el da&ntilde;o f&iacute;sico o mental. El ritual cura y elimina por completo una herida del tipo elegido por cada paso que necesite el ritual. En lugar de curar heridas, el ritual puede eliminar toda la fatiga que sufra el paciente, borr&aacute;ndola de un plumazo. Estos efectos se pueden combinar: curar la fatiga y dos heridas f&iacute;sicas requerir&aacute; un ritual de tres pasos (uno para la fatiga y uno por cada herida).</p>\n<p><strong>Fracaso</strong></p>\n<p>Cuando el ritual se conjura mal, el paciente se cura seg&uacute;n lo previsto, pero de forma corrupta. Cualquier herida as&iacute; curada se convierte inmediatamente en una cicatriz, sin tirada para resistir la consecuencia. En caso de ser fatiga, el objetivo solo se recuperar&aacute; de la mitad de la fatiga que sufra (redondeando hacia abajo). Adem&aacute;s, el ritualista sufre una herida del mismo tipo por cada herida curada, ya que el hechizo le inflige heridas sintom&aacute;ticas para potenciar el efecto curativo.</p>",
+    "favorite": false,
+    "bonusChallenge": 0,
+    "complication": 20,
+    "cost": 3,
+    "costEffects": "Drenaje",
+    "damage": 0,
+    "damageEffects": "",
+    "damageFormula": "",
+    "damageStressType": "",
+    "difficulty": 1,
+    "duration": "Instantánea",
+    "effect": "",
+    "flawed": "",
+    "focus": "",
+    "mantle": false,
+    "momentum": "",
+    "ritualRequirements": "Utensilios rituales.",
+    "ritualResistance": "",
+    "ritualSteps": {
+      "max": 1,
+      "value": 0
+    },
+    "ritualStress": {
+      "max": 10,
+      "value": 0
+    },
+    "skill": "Medicine",
+    "spellType": "ins"
+  },
+  "effects": [],
+  "folder": "WOuGhwDofD0Tptyc",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705656613436,
+    "modifiedTime": 1705683682750,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!0E3fyewxEiJzj1CD"
+}

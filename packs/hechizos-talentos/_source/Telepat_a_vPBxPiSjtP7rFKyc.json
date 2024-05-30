@@ -1,0 +1,54 @@
+{
+  "name": "Telepatía",
+  "type": "spell",
+  "_id": "vPBxPiSjtP7rFKyc",
+  "img": "systems/ac2d20/assets/doc-icons/spell.svg",
+  "system": {
+    "description": "<h1>Telepat&iacute;a</h1>\n<p>Algunos ps&iacute;quicos son capaces de comunicarse de forma extrasensorial y enviar sus propios pensamientos a la mente de otra persona, al igual que escuchar los de los dem&aacute;s.</p>\n<p><strong>Habilidad:</strong> Observaci&oacute;n.</p>\n<p><strong>Dificultad:</strong> Especial.</p>\n<p><strong>Coste:</strong> 1 , Drenaje, Perforante 1.</p>\n<p><strong>Duraci&oacute;n:</strong> Especial.</p>\n<p><strong>Efectos</strong></p>\n<p>Manifestaci&oacute;n. El ps&iacute;quico elige uno de los siguientes efectos cuando lanza con &eacute;xito el talento. Solo funcionan en seres con una inteligencia similar a la humana.</p>\n<ul>\n<li>Leer la mente: Dificultad 2, enfrentada contra Voluntad + Fortaleza del objetivo. El coste aumenta en 3 . El ps&iacute;quico intenta sumergirse en la mente de una &uacute;nica persona o criatura que se encuentre a distancia cercana. Si vence, ser&aacute; consiente de los pensamientos superficiales del objetivo: lo que est&aacute; pensando en ese momento exacto. Puede gastar Inercia en Obtener informaci&oacute;n para profundizar en la mente del objetivo. Cada acci&oacute;n mayor adicional que contin&uacute;e leyendo esta mente le permite al ps&iacute;quico formular una pregunta sin gastar Inercia, conforme indaga a m&aacute;s profundidad.</li>\n<li>Transmitir pensamiento: Dificultad 1. El ps&iacute;quico puede enviar sus pensamientos a otra persona situada a distancia media. Es equivalente a unos pocos segundos de conversaci&oacute;n. El destinatario puede responder de la misma forma. El efecto es casi instant&aacute;neo.</li>\n<li>V&iacute;nculo mental: Dificultad 2. El ps&iacute;quico enlaza las mentes de varias personas voluntarias (hasta un m&aacute;ximo igual a su poder) situadas a distancia media. Durante una cantidad de horas igual al poder del ps&iacute;quico, los vinculados podr&aacute;n comunicarse telep&aacute;ticamente como si estuvieran hablando entre s&iacute;, pero solo mientras est&eacute;n a distancia media. Sin embargo, si alg&uacute;n miembro del grupo vinculado sufre estr&eacute;s mental, todos los dem&aacute;s del grupo vinculado sufrir&aacute;n la mitad de esa cantidad de estr&eacute;s mental (redondeando hacia arriba).</li>\n</ul>\n<p><strong>Inercia</strong></p>\n<ul>\n<li>Por 1 Inercia (solo con transmitir pensamiento o v&iacute;nculo mental), aumentas el alcance del hechizo a distancia lejana (a un radio de un kil&oacute;metro por Inercia 2 y a cualquier parte de la Tierra por Inercia 3).</li>\n<li>Por 1 Inercia (solo al transmitir pensamiento o v&iacute;nculo mental), podr&eacute;is compartir im&aacute;genes, sonidos, recuerdos o algo que ocurra en directo a partir de vuestros sentidos. Cuanto m&aacute;s largo y elaborado sea el recuerdo, o lo que sea que se est&eacute; compartiendo, m&aacute;s cantidad de Inercia ser&aacute; necesaria (el DJ determina exactamente cu&aacute;nta).</li>\n<li>Por 2 Inercia (solo al leer la mente), el objetivo no se percatar&aacute; de la invasi&oacute;n mental.</li>\n</ul>",
+    "favorite": false,
+    "bonusChallenge": 0,
+    "complication": 20,
+    "cost": 1,
+    "costEffects": "Drenaje, Perforante 1",
+    "damage": 0,
+    "damageEffects": "",
+    "damageFormula": "",
+    "damageStressType": "",
+    "difficulty": 0,
+    "duration": "0",
+    "effect": "",
+    "flawed": "",
+    "focus": "",
+    "mantle": false,
+    "momentum": "",
+    "ritualRequirements": "",
+    "ritualResistance": "",
+    "ritualSteps": {
+      "max": 0,
+      "value": 0
+    },
+    "ritualStress": {
+      "max": 0,
+      "value": 0
+    },
+    "skill": "Observation",
+    "spellType": "ins"
+  },
+  "effects": [],
+  "folder": "arPkbtyTMPOqFCd8",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705621000167,
+    "modifiedTime": 1705659519607,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!vPBxPiSjtP7rFKyc"
+}

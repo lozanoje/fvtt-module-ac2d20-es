@@ -1,0 +1,19 @@
+{
+  "name": "Libro de hechizos rúnico",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "4U82fNv3E8aEsij2",
+  "sort": 100000,
+  "color": "#ae6119",
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705600552130,
+    "modifiedTime": 1705659253278,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!folders!4U82fNv3E8aEsij2"
+}

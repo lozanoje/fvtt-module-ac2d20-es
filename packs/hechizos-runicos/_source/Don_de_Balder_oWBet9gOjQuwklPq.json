@@ -1,0 +1,54 @@
+{
+  "name": "Don de Balder",
+  "type": "spell",
+  "_id": "oWBet9gOjQuwklPq",
+  "img": "systems/ac2d20/assets/doc-icons/spell.svg",
+  "system": {
+    "description": "<h1>Don de Balder</h1>\n<p>Este poderoso escudo r&uacute;nico est&aacute; asociado con algiz, la runa de protecci&oacute;n, y se basa en el poder de Balder, el m&aacute;s querido de todos los aesir. La runa parece envolver a todos los afectados en una armadura m&iacute;stica, de tal modo que son inmunes a la mayor&iacute;a del da&ntilde;o: los disparos fallan por poco, el dolor se disipa y las fuerzas malignas se debilitan considerablemente mientras est&aacute;n bajo la influencia protectora de esta runa.</p>\n<p><strong>Habilidad</strong>: Fortaleza.</p>\n<p><strong>Dificultad</strong>: 2.</p>\n<p>v<strong>Coste</strong>: 3 , Drenaje.</p>\n<p><strong>Duraci&oacute;n</strong>: Un n&uacute;mero de rondas equivalente al poder del hechicero.</p>\n<p><strong>Efectos</strong></p>\n<p>Hechizo de protecci&oacute;n. Mientras dure su efecto, cualquier ataque contra el hechicero o sus aliados a distancia cercana aumenta en dos puntos su Dificultad.</p>\n<p><strong>Inercia</strong></p>\n<ul>\n<li>Por 1 Inercia (repetible), todos los personajes afectados ganan un punto de Cobertura.</li>\n</ul>",
+    "favorite": false,
+    "bonusChallenge": 0,
+    "complication": 20,
+    "cost": 3,
+    "costEffects": "Drenaje",
+    "damage": 0,
+    "damageEffects": "",
+    "damageFormula": "",
+    "damageStressType": "",
+    "difficulty": 2,
+    "duration": "Un número de rondas equivalente al poder del hechicero.",
+    "effect": "",
+    "flawed": "",
+    "focus": "",
+    "mantle": false,
+    "momentum": "",
+    "ritualRequirements": "",
+    "ritualResistance": "",
+    "ritualSteps": {
+      "max": 0,
+      "value": 0
+    },
+    "ritualStress": {
+      "max": 0,
+      "value": 0
+    },
+    "skill": "Resilience",
+    "spellType": "ins"
+  },
+  "effects": [],
+  "folder": "4U82fNv3E8aEsij2",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705601243927,
+    "modifiedTime": 1705659253236,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!oWBet9gOjQuwklPq"
+}

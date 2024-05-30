@@ -1,0 +1,54 @@
+{
+  "name": "Mirada de Balor",
+  "type": "spell",
+  "_id": "NBgB8M2MgSldjpTC",
+  "img": "systems/ac2d20/assets/doc-icons/spell.svg",
+  "system": {
+    "description": "<h1>Mirada de Balor</h1>\n<p>Bas&aacute;ndose en la fuerza de este antiguo rey fomoriano, esta mirada siniestra infunde miedo y terror en los corazones de todos los enemigos de su portador. Se extiende desde el hechicero formando un cono que sigue su l&iacute;nea de visi&oacute;n: todos los que caen bajo la mirada de Balor sienten como sus rodillas temblequean, sus extremidades se vuelven pesadas y su alma se estremece; a menudo dan la media vuelta y huyen balbuceando, sin importarles las consecuencias.</p>\n<p><strong>Habilidad</strong>: Supervivencia.</p>\n<p><strong>Dificultad</strong>: 2; tarea enfrentada contra Voluntad + Fortaleza.</p>\n<p><strong>Coste</strong>: 5 , Aturdidora, Drenaje.</p>\n<p><strong>Duraci&oacute;n</strong>: Instant&aacute;neo.</p>\n<p><strong>Efectos</strong></p>\n<p>Hechizo de ataque. El hechizo afecta a un &uacute;nico enemigo que se encuentre a distancia media e inflige el poder del hechicero +2@s de estr&eacute;s mental con el efecto Intensa.</p>\n<p><strong>Inercia</strong></p>\n<ul>\n<li>Por 2 Inercia, a&ntilde;ades Drenaje.</li>\n<li>Por 2 Inercia, a&ntilde;ades Persistente 6.</li>\n</ul>",
+    "favorite": false,
+    "bonusChallenge": 0,
+    "complication": 20,
+    "cost": 1,
+    "costEffects": "Aturdidora, Drenaje",
+    "damage": 0,
+    "damageEffects": "",
+    "damageFormula": "",
+    "damageStressType": "",
+    "difficulty": 2,
+    "duration": "Instantáneo.",
+    "effect": "",
+    "flawed": "",
+    "focus": "",
+    "mantle": false,
+    "momentum": "",
+    "ritualRequirements": "",
+    "ritualResistance": "",
+    "ritualSteps": {
+      "max": 0,
+      "value": 0
+    },
+    "ritualStress": {
+      "max": 0,
+      "value": 0
+    },
+    "skill": "Survival",
+    "spellType": "ins"
+  },
+  "effects": [],
+  "folder": "jU0VOVuzqfdpkulv",
+  "sort": 162500,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705599599152,
+    "modifiedTime": 1705659248473,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!NBgB8M2MgSldjpTC"
+}

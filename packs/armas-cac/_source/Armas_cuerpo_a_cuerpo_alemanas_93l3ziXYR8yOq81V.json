@@ -1,0 +1,19 @@
+{
+  "name": "Armas cuerpo a cuerpo alemanas",
+  "sorting": "a",
+  "folder": "TO92x1OdUBRTK2t8",
+  "type": "Item",
+  "_id": "93l3ziXYR8yOq81V",
+  "sort": 300000,
+  "color": "#5d84a2",
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705257671613,
+    "modifiedTime": 1705659922654,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!folders!93l3ziXYR8yOq81V"
+}

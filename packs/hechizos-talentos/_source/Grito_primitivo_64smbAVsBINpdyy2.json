@@ -1,0 +1,54 @@
+{
+  "name": "Grito primitivo",
+  "type": "spell",
+  "_id": "64smbAVsBINpdyy2",
+  "img": "systems/ac2d20/assets/doc-icons/spell.svg",
+  "system": {
+    "description": "<h1>Grito primitivo</h1>\n<p>El ps&iacute;quico alcanza los rincones m&aacute;s profundos de su inconsciente y profiere un poderoso aullido mental, que no se oye, sino que se siente, capaz de sembrar la confusi&oacute;n y el p&aacute;nico entre los enemigos cercanos.</p>\n<p><strong>Habilidad:</strong> Persuasi&oacute;n.</p>\n<p><strong>Dificultad:</strong> 1.</p>\n<p><strong>Coste:</strong> 4 , Aturdidora, Drenaje.</p>\n<p><strong>Duraci&oacute;n:</strong> Instant&aacute;neo.</p>\n<p><strong>Efectos</strong></p>\n<p>Ataque. El ps&iacute;quico inflige una cantidad de estr&eacute;s mental igual a su poder +2 con el efecto Aturdidora a todos los enemigos que est&eacute;n a distancia cercana.</p>\n<p><strong>Defecto</strong></p>\n<p>Una versi&oacute;n an&oacute;mala de este talento ps&iacute;quico afecta a todas las personas que se encuentren a distancia cercana, no solo los enemigos.</p>\n<p><strong>Inercia</strong></p>\n<ul>\n<li>Por 2 Inercia, a&ntilde;ades Cruel.</li>\n<li>Por 2 Inercia, a&ntilde;ades Perforante 1.</li>\n<li>Por 2 Inercia, aumentas el alcance a distancia media.</li>\n</ul>",
+    "favorite": false,
+    "bonusChallenge": 0,
+    "complication": 20,
+    "cost": 4,
+    "costEffects": "Aturdidora, Drenaje",
+    "damage": 0,
+    "damageEffects": "",
+    "damageFormula": "",
+    "damageStressType": "",
+    "difficulty": 1,
+    "duration": "Instantáneo.",
+    "effect": "",
+    "flawed": "",
+    "focus": "",
+    "mantle": false,
+    "momentum": "",
+    "ritualRequirements": "",
+    "ritualResistance": "",
+    "ritualSteps": {
+      "max": 0,
+      "value": 0
+    },
+    "ritualStress": {
+      "max": 0,
+      "value": 0
+    },
+    "skill": "Persuasion",
+    "spellType": "ins"
+  },
+  "effects": [],
+  "folder": "arPkbtyTMPOqFCd8",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705620885070,
+    "modifiedTime": 1705659519607,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!64smbAVsBINpdyy2"
+}

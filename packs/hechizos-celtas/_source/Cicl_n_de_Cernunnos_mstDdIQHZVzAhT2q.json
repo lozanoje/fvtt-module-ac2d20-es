@@ -1,0 +1,54 @@
+{
+  "name": "Ciclón de Cernunnos",
+  "type": "spell",
+  "_id": "mstDdIQHZVzAhT2q",
+  "img": "systems/ac2d20/assets/doc-icons/spell.svg",
+  "system": {
+    "description": "<h1>Cicl&oacute;n de Cernunnos</h1>\n<p>Concentrando su voluntad hasta crear un v&oacute;rtice de viento, el druida lo lanza contra sus enemigos, justo all&iacute; donde tiene el potencial de causar una mayor destrucci&oacute;n. Este tornado imparable es especialmente da&ntilde;ino para las criaturas y entidades de los Mitos, pues multiplica sus efectos sobre los oponentes mortales, ya atroces. Sin embargo, a medida que aumenta la distancia con respecto al druida, tambi&eacute;n se desvanece su control, momento en que el tornado comienza a cambiar y virar aleatoriamente antes de apagarse.</p>\n<p><strong>Habilidad</strong>: Supervivencia.</p>\n<p><strong>Dificultad</strong>: 2.</p>\n<p><strong>Coste</strong>: 4 , Drenaje, Perforante 1.</p>\n<p><strong>Duraci&oacute;n</strong>: Un n&uacute;mero de rondas igual al poder del hechicero.</p>\n<p><strong>Efectos</strong></p>\n<p>Hechizo de invocaci&oacute;n. Crea un tornado de viento en una zona situada a una distancia media. El cicl&oacute;n recibe su propio turno en el orden de acci&oacute;n, pero no puede ser atacado ni sufrir da&ntilde;o de ninguna forma. Al comienzo del turno del tornado, inflige una cantidad de estr&eacute;s f&iacute;sico igual al poder del hechicero +1@s con los efectos Aturdidora y Perforante 1 a todas las criaturas y objetos capaces de recibir da&ntilde;o que est&eacute;n a distancia media y, despu&eacute;s, se mueve a una zona adyacente. El da&ntilde;o que inflija a criaturas sobrenaturales tambi&eacute;n gana el efecto Cruel.</p>\n<p>Cada vez que el tornado se mueve, el hechicero puede dictaminar el movimiento si se encuentra a distancia media o inferior. Cuando est&eacute; m&aacute;s lejos, el cicl&oacute;n no se mover&aacute; (pero el DJ puede gastar 1 Amenaza para desplazar el tornado un &aacute;rea).</p>\n<p><strong>Defecto</strong></p>\n<p>Una versi&oacute;n defectuosa de este hechizo no permite que el mago controle el cicl&oacute;n y tampoco exige que el DJ gaste puntos de Amenaza para mover el cicl&oacute;n.</p>\n<p><strong>Inercia</strong></p>\n<ul>\n<li>El hechicero puede aumentar el estr&eacute;s que inflige el tornado +1@s por cada punto de Inercia gastado durante su turno inicial y en los turnos siguientes.</li>\n</ul>",
+    "favorite": false,
+    "bonusChallenge": 0,
+    "complication": 20,
+    "cost": 4,
+    "costEffects": "Drenaje, Perforante 1",
+    "damage": 0,
+    "damageEffects": "",
+    "damageFormula": "",
+    "damageStressType": "",
+    "difficulty": 2,
+    "duration": "Un número de rondas igual al poder del hechicero.",
+    "effect": "",
+    "flawed": "",
+    "focus": "",
+    "mantle": false,
+    "momentum": "",
+    "ritualRequirements": "",
+    "ritualResistance": "",
+    "ritualSteps": {
+      "max": 0,
+      "value": 0
+    },
+    "ritualStress": {
+      "max": 0,
+      "value": 0
+    },
+    "skill": "Survival",
+    "spellType": "ins"
+  },
+  "effects": [],
+  "folder": "jU0VOVuzqfdpkulv",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "P6tpkiMKQwYs0vxy": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "ac2d20",
+    "systemVersion": "11.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1705576969200,
+    "modifiedTime": 1705659248473,
+    "lastModifiedBy": "P6tpkiMKQwYs0vxy"
+  },
+  "_key": "!items!mstDdIQHZVzAhT2q"
+}
