@@ -1,4 +1,4 @@
-# Achtung! Cthulhu 2d20
+# Translation: Spanish [Achtung! Cthulhu 2d20] para FoundryVTT
 
 Traducción del sistema Achtung! Cthulhu 2d20 (github.com/Muttley/foundryvtt-ac2d20) al español -  Achtung! Cthulhu 2d20 spanish translation
 
