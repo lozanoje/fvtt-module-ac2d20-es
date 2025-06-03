@@ -2,45 +2,44 @@
   "id": "fvtt-module-ac2d20-es",
   "title": "Translation: Spanish [Achtung! Cthulhu 2d20]",
   "description": "Traducción del sistema Achtung! Cthulhu 2d20 (github.com/Muttley/foundryvtt-ac2d20) al español -  Achtung! Cthulhu 2d20 spanish translation",
-  "version": "11.65.1",
+  "version": "11.66.1",
   "compatibility": {
     "minimum": "11",
-    "verified": "12.331",
+    "verified": "12.343",
     "maximum": "12"
   },
-  "languages": [
-    {
+  "languages": [{
       "lang": "es",
       "name": "Español",
       "path": "lang/es.json",
       "flags": {}
     }
   ],
-	"packFolders": [{
+  "packFolders": [{
       "name": "Achtung! Cthulhu 2d20 | español",
       "sorting": "a",
       "color": "#b95050",
       "packs": ["escenas"],
-	  "folders": [{
+      "folders": [{
           "name": "Creación PJs",
           "sorting": "a",
           "color": "#70576c",
           "packs": ["talentos", "tablas-aleatorias"]
-        },{
+        }, {
           "name": "Hechizos",
           "sorting": "a",
           "color": "#70576c",
           "packs": ["hechizos-celtas", "hechizos-runicos", "hechizos-rituales", "hechizos-talentos"]
-        },{
+        }, {
           "name": "Equipo",
           "sorting": "a",
           "color": "#70576c",
           "packs": ["armaduras", "armas-distancia", "armas-cac", "pertenencias"]
-        }]
+        }
+      ]
     }
   ],
-  "packs": [
-    {
+  "packs": [{
       "name": "escenas",
       "label": "Escenas",
       "system": "ac2d20",
@@ -80,7 +79,7 @@
       "flags": {},
       "package": "fvtt-module-ac2d20-es",
       "absPath": "packs/hechizos-celtas.db"
-    },{
+    }, {
       "name": "hechizos-runicos",
       "label": "Libro de hechizos rúnico",
       "system": "ac2d20",
@@ -90,7 +89,7 @@
       "flags": {},
       "package": "fvtt-module-ac2d20-es",
       "absPath": "packs/hechizos-runicos.db"
-    },{
+    }, {
       "name": "hechizos-rituales",
       "label": "Rituales tradicionales",
       "system": "ac2d20",
@@ -100,7 +99,7 @@
       "flags": {},
       "package": "fvtt-module-ac2d20-es",
       "absPath": "packs/hechizos-rituales.db"
-    },{
+    }, {
       "name": "hechizos-talentos",
       "label": "Talentos psíquicos y de percepción extrasensorial",
       "system": "ac2d20",
@@ -155,30 +154,29 @@
   "url": "https://github.com/lozanoje/fvtt-module-ac2d20-es",
   "manifest": "https://raw.githubusercontent.com/lozanoje/fvtt-module-ac2d20-es/main/module.json",
   "download": "https://github.com/lozanoje/fvtt-module-ac2d20-es/archive/main.zip",
-  "authors": [
-    {
+  "authors": [{
       "name": "Viriato139ac",
       "discord": "@Viriato139ac#0342"
     }
   ],
-	  "relationships": {
-	    "systems": [{
-	        "id": "ac2d20",
-	        "type": "system",
-	        "compatibility": "11.6.5"
-	      }
-	    ],
-	    "requires": [{
-	        "id": "foundryvtt-es",
-	        "type": "module",
-	        "compatibility": {}
-	      }
-	    ]
-	  },
+  "relationships": {
+    "systems": [{
+        "id": "ac2d20",
+        "type": "system",
+        "compatibility": "11.6.6"
+      }
+    ],
+    "requires": [{
+        "id": "foundryvtt-es",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
   "esmodules": [
     "fvtt-module-ac2d20-es.js"
   ],
-	"styles": [
+  "styles": [
     "/styles/module.css"
   ]
 }
