@@ -1,5 +1,5 @@
 Hooks.once('init', () => {
-  document.getElementById("logo").src = "/modules/fvtt-module-ac2d20-es/images/fvtt-ac2d20-es.webp";
+  // document.getElementById("logo").src = "/modules/fvtt-module-ac2d20-es/images/fvtt-ac2d20-es.webp";
 });
 
 Hooks.once('ready', () => {

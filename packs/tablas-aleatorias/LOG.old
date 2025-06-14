@@ -1,8 +1,15 @@
-2025/06/08-06:56:33.843524 ec2cfefdf040 Recovering log #1279
-2025/06/08-06:56:33.849616 ec2cfefdf040 Delete type=3 #1277
-2025/06/08-06:56:33.849646 ec2cfefdf040 Delete type=0 #1279
-2025/06/08-06:57:33.216802 ec2cfd3ff040 Level-0 table #1284: started
-2025/06/08-06:57:33.216824 ec2cfd3ff040 Level-0 table #1284: 0 bytes OK
-2025/06/08-06:57:33.219046 ec2cfd3ff040 Delete type=0 #1282
-2025/06/08-06:57:33.223979 ec2cfd3ff040 Manual compaction at level-0 from '!folders!M4OgdrWy2f2o9NsD' @ 72057594037927935 : 1 .. '!tables.results!q1IopTD9GfiCgAu5.rxqAxW7A55UdpfTc' @ 0 : 0; will stop at (end)
-2025/06/08-06:57:33.224027 ec2cfd3ff040 Manual compaction at level-1 from '!folders!M4OgdrWy2f2o9NsD' @ 72057594037927935 : 1 .. '!tables.results!q1IopTD9GfiCgAu5.rxqAxW7A55UdpfTc' @ 0 : 0; will stop at (end)
+2025/06/08-18:04:19.580 3404 Recovering log #1283
+2025/06/08-18:04:19.715 3404 Delete type=0 #1283
+2025/06/08-18:04:19.715 3404 Delete type=3 #1281
+2025/06/08-18:04:51.605 2c54 Level-0 table #1288: started
+2025/06/08-18:04:51.672 2c54 Level-0 table #1288: 8301 bytes OK
+2025/06/08-18:04:51.715 2c54 Delete type=0 #1286
+2025/06/08-18:04:51.904 2c54 Manual compaction at level-0 from '!folders!M4OgdrWy2f2o9NsD' @ 72057594037927935 : 1 .. '!tables.results!q1IopTD9GfiCgAu5.rxqAxW7A55UdpfTc' @ 0 : 0; will stop at (end)
+2025/06/08-18:04:52.039 2c54 Manual compaction at level-1 from '!folders!M4OgdrWy2f2o9NsD' @ 72057594037927935 : 1 .. '!tables.results!q1IopTD9GfiCgAu5.rxqAxW7A55UdpfTc' @ 0 : 0; will stop at '!tables.results!q1IopTD9GfiCgAu5.rxqAxW7A55UdpfTc' @ 2038 : 1
+2025/06/08-18:04:52.039 2c54 Compacting 1@1 + 1@2 files
+2025/06/08-18:04:52.104 2c54 Generated table #1289@1: 61 keys, 8422 bytes
+2025/06/08-18:04:52.104 2c54 Compacted 1@1 + 1@2 files => 8422 bytes
+2025/06/08-18:04:52.149 2c54 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/08-18:04:52.149 2c54 Delete type=2 #1048
+2025/06/08-18:04:52.149 2c54 Delete type=2 #1288
+2025/06/08-18:04:52.571 2c54 Manual compaction at level-1 from '!tables.results!q1IopTD9GfiCgAu5.rxqAxW7A55UdpfTc' @ 2038 : 1 .. '!tables.results!q1IopTD9GfiCgAu5.rxqAxW7A55UdpfTc' @ 0 : 0; will stop at (end)
